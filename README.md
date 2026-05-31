@@ -137,21 +137,21 @@ Aqui você vai encontrar projetos que refletem meu aprendizado e experiências.
         align="left"
         alt="GitHub Stats"
         height="200"
-        style="padding: 0px 10px 10px 0px;"
+        style="margin: 0px 10px 10px 0px;"
         src="https://github-readme-stats.shion.dev/api?username=felipesantosdv&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
     />
     <img
         align="left"
         alt="GitHub Stats"
         height="200"
-        style="padding-right: 10px;"
+        style="margin: 0px 10px 10px 0px;"
         src="https://github-readme-stats.shion.dev/api/top-langs/?username=felipesantosdv&theme=dark&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=8"
     />
     <img
         align="left"
         alt="GitHub Stats"
         height="200"
-        style="padding-right: 10px;"
+        style="margin: 0px 10px 10px 0px;"
         src="https://streak-stats.demolab.com?user=felipesantosdv&theme=dark&hide_border=false&locale=pt-br"
         />
 </p>
